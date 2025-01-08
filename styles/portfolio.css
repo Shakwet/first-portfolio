@@ -1,0 +1,27 @@
+nav {display:flex}
+body {
+    font-family: sans-serif,;
+}
+.nav-title{
+    color: black;
+    font-size: 45px;
+    font-weight: 800;
+}
+.text-primary {
+    color: #fd6e0a;
+}
+nav> ul{
+    display: flex;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    
+}
+.btn-primary{ 
+    background: #fd6e0a;
+    border-radius: 5px;
+}
